@@ -8,6 +8,6 @@ Final Year Project KCL
 
 | Tasks	| Done | 
 | ----- | ---- |
-| 1. Review Paper | - [ ] |
+| 1. Review Paper | :heavy_check_mark: | 
 
 
