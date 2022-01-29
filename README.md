@@ -3,6 +3,11 @@
 **Main Question:** 
 	Implement and test on alternative settings, compare conclusions to those of shap_paper.pdf
 
+**Personal Q&A**
+- Is marginal contribution the same as Shapley values?
+- Try to understand the weighting section of the shapley value equation
+
+
 Final Year Project KCL
 
 Jupter Dark mode:
