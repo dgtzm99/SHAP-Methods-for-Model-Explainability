@@ -5,6 +5,9 @@
 
 Final Year Project KCL
 
+Jupter Dark mode:
+jt -t monokai -f fira -fs 10 -nf ptsans -nfs 11 -N -kl -cursw 2 -cursc r -cellw 95% -T
+
 
 | Tasks	| Done | 
 | ----- | ---- |
