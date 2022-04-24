@@ -1,21 +1,24 @@
-# mySHAPproject
+---
 
-**Main Question:** 
-	Implement and test on alternative settings, compare conclusions to those of shap_paper.pdf
+### Final Year Project KCL
+### SHAP Values: Explainable Metjods for Predictive Analytics
+### David Gutierrez Moreno
+### K19032572
+### BSc Computer Science with Intelligent Systems
+### Supervisor: Dr. Maria Polukarov
 
-**Personal Q&A**
-- Is marginal contribution the same as Shapley values?
-- Try to understand the weighting section of the shapley value equation
+---
 
+**AIM:**
+- Implement and test SHAP values
+    
 
-Final Year Project KCL
+### Main project files:
 
-Jupter Dark mode:
-jt -t monokai -f fira -fs 10 -nf ptsans -nfs 11 -N -kl -cursw 2 -cursc r -cellw 95% -T
-
-
-| Tasks	| Done | 
-| ----- | ---- |
-| 1. Review Paper | :heavy_check_mark: | 
-
-
+    case 0.1 (extra) - explaining random forest for International Federation of Association Football (FIFA stadistics)
+    
+    case 1 - explaining linear regression model for Wine samples
+    
+    case 2 - explaining decision tree model for obesity classification dataset
+    
+    case 3 - explaining gradient boosting model for house pricing dataset
