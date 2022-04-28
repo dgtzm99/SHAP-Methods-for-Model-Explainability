@@ -1,7 +1,7 @@
 ---
 
 - Final Year Project KCL
-- HAP Values: Explainable Metjods for Predictive Analytics
+- SHAP Values: Explainable Metjods for Predictive Analytics
 - David Gutierrez Moreno
 - K19032572
 - BSc Computer Science with Intelligent Systems
